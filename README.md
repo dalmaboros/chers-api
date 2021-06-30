@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Cher's API is the back-end Rails API that serves data to the accompanying ReactJS front-end application, [Cher's Wardrobe](https://github.com/dalmaboros/chers-wardrobe).
 
-Things you may want to cover:
+## Instructions
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Clone this repository to your local machine.
+2. In your terminal, navigate to the project directory and run `bundle install`.
+3. Then run `rails s`.
+4. Visit the [Cher's Wardrobe](https://github.com/dalmaboros/chers-wardrobe) git repository and follow the ReadMe instructions there.
